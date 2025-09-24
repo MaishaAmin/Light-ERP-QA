@@ -1,0 +1,17 @@
+# light ERP System – Test Plan
+
+## Scope
+- Inventory management
+- Sales workflows
+- Accounts
+- Reporting
+
+## Objectives
+- Verify accurate transaction recording
+- Validate role-based access control
+- Ensure stable reporting features
+- Validate whole SCM process runs smoothly 
+
+## Deliverables
+- Test Cases
+- Test Summary
